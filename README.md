@@ -1,5 +1,7 @@
 # 주소
-<b style="color:blue;font-size:30pt;">bit.ly/sds_py_04</b>
+
+<b style="color:blue;font-size:30px;">bit.ly/sds_py_04</b>
+
 
 # 파일 다운로드 방법
 
