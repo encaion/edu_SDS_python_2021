@@ -24,6 +24,7 @@
 # 각종 링크 모음
 ### [시험 정리 노트]
 <b>1) 기본편</b>: https://datadoctorblog.com/2020/09/13/Py-prepare-skill-test-01-basic/ <br>
+<b>2) 전처리</b>: https://datadoctorblog.com/2020/09/14/Py-prepare-skill-test-02-preprocessing/ <br>
 <br>
 
 ### [Python 3]
