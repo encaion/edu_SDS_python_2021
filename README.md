@@ -22,7 +22,11 @@
 
 ---------
 # 각종 링크 모음
-### [Python 3.7]
+### [시험 정리 노트]
+<b>1) 기본편</b>: https://datadoctorblog.com/2020/09/13/Py-prepare-skill-test-01-basic/ <br>
+<br>
+
+### [Python 3]
 <b>Official</b>: https://docs.python.org/3/ <br>
 <br>
 ### [Library]
