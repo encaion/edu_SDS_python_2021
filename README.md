@@ -25,6 +25,7 @@
 ### [시험 정리 노트]
 <b>1) 기본편</b>: https://datadoctorblog.com/2020/09/13/Py-prepare-skill-test-01-basic/ <br>
 <b>2) 전처리</b>: https://datadoctorblog.com/2020/09/14/Py-prepare-skill-test-02-preprocessing/ <br>
+<b>3)   통계</b>: https://datadoctorblog.com/2020/09/16/Py-prepare-skill-test-03-stat/ <br>
 <br>
 
 ### [Python 3]
